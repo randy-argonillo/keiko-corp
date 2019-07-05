@@ -1,0 +1,27 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "description": "The greatest company ever created",
+  "main": "index.js",
+  "scripts": {
+    "run:optimize": "node scripts/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randy-argonillo/keiko-corp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randy-argonillo/keiko-corp/issues"
+  },
+  "homepage": "https://github.com/randy-argonillo/keiko-corp#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "imagemin": "^7.0.0",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "node-minify": "^3.6.0"
+  }
+}
